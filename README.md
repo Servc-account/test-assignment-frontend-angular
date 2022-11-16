@@ -1,4 +1,4 @@
-# Test Assignment Frontend
+# SerVC Test Assignment Frontend Angular
 
 Assignment should be made with [Angular](https://angular.io/start) framework.
 
